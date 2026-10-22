@@ -39,4 +39,4 @@ This project investigates user behavior, monetization dynamics, and in-game stor
 3. **Balance Check for `Elf`:** Investigate the `Elf` economy, as lower conversion and purchase activity might indicate that resources are acquired too easily through gameplay quests rather than the store.
 
 ---
-*Feel free to check out the `query.sql` file in this repository for the complete SQL implementation and `.md` file for a more detailed analytical note.*
+*Feel free to check out the `Darkwood Secrets.sql` file in this repository for the complete SQL implementation and `Analytical Note.md` file for a more detailed analytical note.*
