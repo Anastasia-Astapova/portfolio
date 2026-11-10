@@ -17,9 +17,9 @@
 
 - **Behavioral Differences (Desktop vs. Mobile):**
 
--- **Average Revenue per Order:** Desktop users exhibit a slightly higher AOV — RUB 561 vs. RUB 544 on mobile devices.
+   - **Average Revenue per Order:** Desktop users exhibit a slightly higher AOV — RUB 561 vs. RUB 544 on mobile devices.
 
--- **Category Preferences:** Mobile users show a higher preference for concerts (58% vs. 51% on desktop). On desktop, users buy theater tickets more frequently (28% vs. 22% on mobile). The top event on mobile is a concert, whereas on desktop, it is a theatrical performance.
+   - **Category Preferences:** Mobile users show a higher preference for concerts (58% vs. 51% on desktop). On desktop, users buy theater tickets more frequently (28% vs. 22% on mobile). The top event on mobile is a concert, whereas on desktop, it is a theatrical performance.
 
 #### Geographic Concentration
 Demand is heavily concentrated. Among the top 5 regions, the absolute leaders in revenue and order volume are:
