@@ -43,7 +43,7 @@ The dashboard provides an executive overview of core performance indicators, rev
 
 ## Repository Structure
 
-.
-├── Ya_afisha_dashboard_demo.mp4      # Video demonstration of dashboard functionality and cross-filtering
-├── Analytical Memo.md       # Detailed analytical memo with strategic insights & recommendations
+
+├── Ya_afisha_dashboard_demo.mp4      # Video demonstration of dashboard functionality and cross-filtering <br>
+├── Analytical Memo.md       # Detailed analytical memo with strategic insights & recommendations <br>
 └── README.md                # Project documentation
